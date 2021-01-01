@@ -13,10 +13,11 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/DSC09954.jpg) no-repeat top center fixed;
+    background: url(../images/DSC09954.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    z-index: -1;
     background-size: cover;
     width: 100%;
 }
